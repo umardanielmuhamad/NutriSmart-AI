@@ -1,0 +1,6 @@
+{
+  "name": "NutriSmart AI",
+  "description": "AI-Powered Smart Food Information System for SorghuBites, connecting physical food packaging to Gemini AI nutrition intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

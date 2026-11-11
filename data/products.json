@@ -1,0 +1,319 @@
+[
+  {
+    "id": "sorghubites",
+    "name": "SorghuBites",
+    "tagline": {
+      "en": "Climate-Resilient Ancient Grain Biscuit Powered by Sorghum, Dates, Honey & Butter",
+      "ms": "Biskut Bijirin Purba Tahan Iklim Dikuasakan oleh Sorgum, Kurma, Madu & Mentega"
+    },
+    "category": {
+      "en": "Sorghum-based Artisan Biscuit",
+      "ms": "Biskut Khasiat Berasaskan Sorgum"
+    },
+    "shortDescription": {
+      "en": "An innovative school science nutrition formulation replacing wheat flour with climate-resilient sorghum flour and sweetened naturally with dates and pure honey.",
+      "ms": "Formulasi inovasi sains pemakanan sekolah menggantikan tepung gandum dengan tepung sorgum tahan iklim serta dimaniskan secara semula jadi dengan kurma dan madu asli."
+    },
+    "fullDescription": {
+      "en": "SorghuBites is a student-led food technology innovation designed to address climate-resilient agriculture and mindful nutrition. Built upon sorghum (Sorghum bicolor)—a drought-tolerant ancient whole grain—this biscuit eliminates refined white sugar and avoids wheat flour entirely. Sweetness and binding are achieved through whole pulverized dates and raw honey, paired with creamery butter for tender crumb structure and natural satiety.",
+      "ms": "SorghuBites merupakan inovasi teknologi makanan pimpinan pelajar untuk menangani pertanian berdaya tahan iklim dan pemakanan berkhasiat. Dihasilkan daripada sorgum (Sorghum bicolor)—sejenis bijirin purba tahan kemarau—biskut ini menyingkirkan gula putih bertapis dan tidak menggunakan tepung gandum. Rasa manis dan struktur disatukan melalui pes kurma dan madu asli, diadun bersama mentega untuk tekstur rangup dan kepuasan berkhasiat."
+    },
+    "servingSize": "30g (approx. 2 biscuits)",
+    "servingsPerPack": 4,
+    "netWeight": "120g",
+    "origin": "Product of Malaysia",
+    "imageUrl": "/assets/aistudio/photo_2026-11-10_15.45.03_ce988b6b.jpeg",
+    "formulationPercentages": {
+      "sorghum": 40,
+      "dates": 30,
+      "butter": 25,
+      "honey": 5
+    },
+    "verificationStatus": "PENDING",
+    "verificationSource": "School Food Technology Innovation Lab & Pending Accredited Food Analysis",
+    "verificationDate": "2026-11-10",
+    "labCertificateNo": "LAB-PENDING-SB2026-01",
+    "formulationHighlights": {
+      "en": [
+        "100% Sorghum Grain Flour — No wheat flour used in recipe formulation",
+        "No Added Refined White Sugar — Naturally sweetened with whole dates & raw honey",
+        "Clean 4-Ingredient Artisan Recipe — Sorghum flour, dates, honey, creamery butter",
+        "Ancient Climate-Resilient Grain — Supports sustainable water-efficient agriculture",
+        "Rich in Natural Polyphenols & Dietary Plant Fibres from whole grains & dates",
+        "Preservative-free, artificial dye-free, and chemical additive-free"
+      ],
+      "ms": [
+        "100% Tepung Bijirin Sorgum — Tiada tepung gandum digunakan dalam formulasi resipi",
+        "Tiada Tambahan Gula Putih Bertapis — Dimaniskan secara semula jadi dengan kurma & madu asli",
+        "Resipi Bersih 4 Bahan Asas — Tepung sorgum, kurma, madu, mentega tenusu",
+        "Bijirin Purba Tahan Kemarau — Menyokong kelestarian pertanian jimat air",
+        "Kaya dengan Polifenol Semula Jadi & Serat Tumbuhan daripada bijirin & kurma",
+        "Bebas bahan pengawet, bebas pewarna tiruan, dan bebas aditif kimia"
+      ]
+    },
+    "ingredients": [
+      {
+        "id": "sorghum-flour",
+        "name": {
+          "en": "Sorghum Flour (40%)",
+          "ms": "Tepung Sorgum (40%)"
+        },
+        "botanicalOrOrigin": "Sorghum bicolor (L.) Moench, Whole Grain",
+        "roleInRecipe": {
+          "en": "Primary structural flour base (40% of recipe). Replaces traditional wheat flour completely, imparting a nutty, rustic earthy note with fine crisp crumb stability.",
+          "ms": "Pangkal struktur tepung utama (40% daripada resipi). Menggantikan tepung gandum sepenuhnya, memberikan aroma kacang tanah yang wangi serta kestabilan tekstur biskut yang rangup."
+        },
+        "generalNutritionalCharacteristics": {
+          "en": "Whole-grain sorghum is inherently gluten-free, rich in complex carbohydrates, resistant starch, dietary fibre, and protective plant phytochemicals including 3-deoxyanthocyanidins and tannins.",
+          "ms": "Sorgum penuh secara semula jadi bebas gluten, kaya dengan karbohidrat kompleks, kanji rintang, serat diet, serta fitokimia tumbuhan pelindung seperti tanin dan polifenol."
+        },
+        "scientificDetails": {
+          "en": "Sorghum is a C4 photosynthetic crop requiring roughly one-third less water than maize and significantly less than wheat, making it an extraordinary climate-smart food security champion.",
+          "ms": "Sorgum ialah tanaman fotosintesis C4 yang memerlukan kira-kira sepertiga kurang air berbanding jagung dan jauh lebih sedikit daripada gandum, menjadikannya bijirin masa hadapan yang lestari."
+        },
+        "keyBenefits": {
+          "en": [
+            "40% Recipe Share — Dominant grain base",
+            "Wheat-free grain alternative",
+            "Complex slow-digesting carbohydrates",
+            "High climate-resilience and low water footprint"
+          ],
+          "ms": [
+            "40% Nisbah Resipi — Asas bijirin utama",
+            "Alternatif bijirin tanpa gandum",
+            "Karbohidrat kompleks yang dicerna perlahan",
+            "Daya tahan iklim tinggi dan jejak air rendah"
+          ]
+        },
+        "iconName": "Wheat"
+      },
+      {
+        "id": "dates",
+        "name": {
+          "en": "Whole Dates Puree (30%)",
+          "ms": "Kurma Asli Pes (30%)"
+        },
+        "botanicalOrOrigin": "Phoenix dactylifera (Flesh & Dietary Fibre)",
+        "roleInRecipe": {
+          "en": "Second largest recipe constituent (30%). Provides dense moisture binding, caramel aromatic depth, and cohesive batter structure without requiring artificial gums or gelatinized starches.",
+          "ms": "Bahan kedua terbesar dalam resipi (30%). Memberikan ikatan kelembapan, kedalaman aroma karamel, dan struktur adunan yang padu tanpa memerlukan gam tiruan atau kanji tambahan."
+        },
+        "generalNutritionalCharacteristics": {
+          "en": "Dates contribute natural soluble and insoluble dietary fibres, potassium, magnesium, copper, and bioactive polyphenols that support digestion.",
+          "ms": "Kurma menyumbangkan serat diet larut dan tidak larut, kalium, magnesium, kuprum, serta polifenol bioaktif yang menyokong kesihatan pencernaan."
+        },
+        "sugarClarification": {
+          "en": "Important Food Tech Notice: Dates are rich in naturally occurring simple sugars (fructose and glucose). While SorghuBites contains zero refined white sugar, it is NOT a sugar-free food.",
+          "ms": "Pemberitahuan Sains Makanan: Kurma mengandungi gula semula jadi (fruktosa dan glukosa). Walaupun SorghuBites tiada gula putih bertapis, ia BUKAN produk bebas gula."
+        },
+        "scientificDetails": {
+          "en": "Because whole date pulp retains its cellular fibre matrix, sugars are accompanied by potassium and micronutrients, providing a smoother sweetness sensation.",
+          "ms": "Kerana pulpa kurma mengekalkan matriks serat selularnya, gula diiringi kalium dan mikronutrien, memberikan kemanisan yang lebih seimbang."
+        },
+        "keyBenefits": {
+          "en": [
+            "30% Recipe Share — Whole fruit sweetening & binding",
+            "Intact fruit fibre in matrix",
+            "Source of potassium and magnesium",
+            "Natural chew and caramel aroma"
+          ],
+          "ms": [
+            "30% Nisbah Resipi — Pemanis buah & pengikat semula jadi",
+            "Serat buah utuh dalam adunan",
+            "Sumber kalium dan magnesium",
+            "Aroma karamel dan pengikat semula jadi"
+          ]
+        },
+        "iconName": "Sun"
+      },
+      {
+        "id": "butter",
+        "name": {
+          "en": "Creamery Butter (25%)",
+          "ms": "Mentega Tenusu Asli (25%)"
+        },
+        "botanicalOrOrigin": "Fresh Cow's Milk Cream (Dairy Lipid Matrix)",
+        "roleInRecipe": {
+          "en": "Shortens the dough structure (25% of recipe). Coats sorghum flour starch granules to create a melt-in-mouth biscuit texture, preventing toughness in the absence of wheat gluten.",
+          "ms": "Memendekkan struktur doh (25% daripada resipi). Menyelaputi butiran kanji tepung sorgum untuk menghasilkan tekstur biskut yang cair di mulut tanpa gluten gandum."
+        },
+        "generalNutritionalCharacteristics": {
+          "en": "Source of dietary milk lipids, fat-soluble vitamins (Vitamin A, E), and butyric acid fatty acids that enhance satiety and mouthfeel.",
+          "ms": "Sumber lipid tenusu, vitamin larut lemak (Vitamin A, E), dan asid lemak butirik yang meningkatkan rasa kenyang serta tekstur berkrim."
+        },
+        "scientificDetails": {
+          "en": "Quality butter contains approximately 80-82% milk fat and 16% water. During baking, steam flash-creates delicate micro-lamellae in the non-gluten sorghum crumb.",
+          "ms": "Mentega berkualiti mengandungi 80-82% lemak susu dan 16% air. Semasa membakar, wap menghasilkan liang mikro halus pada serpihan biskut sorgum."
+        },
+        "keyBenefits": {
+          "en": [
+            "25% Recipe Share — Lipid crumb shortening",
+            "Silky mouthfeel and authentic buttery aroma",
+            "Fat-soluble vitamins A & E",
+            "Creates melt-in-mouth crumb without trans fats"
+          ],
+          "ms": [
+            "25% Nisbah Resipi — Pelembut serpihan doh",
+            "Tekstur sutera dan aroma mentega sebenar",
+            "Vitamin larut lemak A & E",
+            "Membentuk serbuk rapuh tanpa lemak trans"
+          ]
+        },
+        "iconName": "ShieldCheck"
+      },
+      {
+        "id": "honey",
+        "name": {
+          "en": "Pure Natural Honey (5%)",
+          "ms": "Madu Asli Tulen (5%)"
+        },
+        "botanicalOrOrigin": "Apis mellifera, Raw Floral Nectar",
+        "roleInRecipe": {
+          "en": "Balanced botanical sweetener (5% of recipe). Acts as a humectant and thermal browning agent, rounding out sorghum astringency with floral nectar notes.",
+          "ms": "Pemanis botani seimbang (5% daripada resipi). Bertindak sebagai agen pengekalan kelembapan dan pemerang keemasan ketika dibakar, mengimbangi rasa tanah sorgum dengan aroma floral."
+        },
+        "generalNutritionalCharacteristics": {
+          "en": "Natural nectar containing trace enzymes, amino acids, flavonoid antioxidants, and simple carbohydrates that provide clean sensory release.",
+          "ms": "Nektar semula jadi yang mengandungi surih enzim, asid amino, antioksidan flavonoid, dan karbohidrat ringkas yang memberikan rasa manis yang bersih."
+        },
+        "sugarClarification": {
+          "en": "Regulatory Clarification: Pure honey consists primarily of naturally occurring fructose and glucose. It represents an unrefined alternative to white cane sugar, but still contributes caloric sugars.",
+          "ms": "Penjelasan Kawal Selia: Madu asli terdiri terutamanya daripada fruktosa dan glukosa semula jadi. Ia alternatif tanpa proses kilang, tetapi masih menyumbang gula berkalori."
+        },
+        "scientificDetails": {
+          "en": "Honey's mild organic acid content and hygroscopic nature keep the biscuit from drying out, retaining crisp yet tender mouthfeel during shelf life.",
+          "ms": "Sifat higroskopik dan keasidan organik madu mengekalkan kesegaran biskut agar tetap rapuh dan tidak rapuh berdebu."
+        },
+        "keyBenefits": {
+          "en": [
+            "5% Recipe Share — Delicate nectar accent",
+            "Natural humectant for tender snap",
+            "Trace antioxidant flavonoids",
+            "Zero artificial flavourings or syrups"
+          ],
+          "ms": [
+            "5% Nisbah Resipi — Sentuhan nektar halus",
+            "Pengekal kelembapan untuk kerangupan lembut",
+            "Surih antioksidan flavonoid",
+            "Sifar sirap jagung atau perisa tiruan"
+          ]
+        },
+        "iconName": "Sparkles"
+      }
+    ],
+    "nutritionMetrics": [
+      {
+        "key": "calories",
+        "label": {
+          "en": "Energy / Calories",
+          "ms": "Tenaga / Kalori"
+        },
+        "unit": "kcal",
+        "value": null,
+        "referenceEstimate": "~130 - 145 kcal (per 30g serving)",
+        "status": "PENDING",
+        "dailyValuePercentage": null,
+        "notes": {
+          "en": "Awaiting final bomb calorimetry / accredited laboratory proximate testing. Value shown as general preliminary estimate.",
+          "ms": "Menunggu ujian proksimat / kalorimetri makmal bertauliah. Nilai dipaparkan sebagai anggaran awal sahaja."
+        }
+      },
+      {
+        "key": "protein",
+        "label": {
+          "en": "Crude Protein",
+          "ms": "Protein Kasar"
+        },
+        "unit": "g",
+        "value": null,
+        "referenceEstimate": "~2.2 - 2.8 g (per 30g serving)",
+        "status": "PENDING",
+        "dailyValuePercentage": null,
+        "notes": {
+          "en": "Contributed primarily by whole-grain sorghum and dairy proteins from creamery butter.",
+          "ms": "Disumbangkan terutamanya oleh bijirin sorgum dan protein tenusu mentega."
+        }
+      },
+      {
+        "key": "carbohydrates",
+        "label": {
+          "en": "Total Carbohydrates",
+          "ms": "Jumlah Karbohidrat"
+        },
+        "unit": "g",
+        "value": null,
+        "referenceEstimate": "~18.0 - 21.0 g (per 30g serving)",
+        "status": "PENDING",
+        "dailyValuePercentage": null,
+        "notes": {
+          "en": "Predominantly complex grain starches from sorghum, supplemented by simple fruit carbohydrates.",
+          "ms": "Didominasi oleh kanji bijirin kompleks daripada sorgum, dilengkapi karbohidrat buah asli."
+        }
+      },
+      {
+        "key": "totalFat",
+        "label": {
+          "en": "Total Fat",
+          "ms": "Jumlah Lemak"
+        },
+        "unit": "g",
+        "value": null,
+        "referenceEstimate": "~5.5 - 6.8 g (per 30g serving)",
+        "status": "PENDING",
+        "dailyValuePercentage": null,
+        "notes": {
+          "en": "Derived from natural churned creamery butter without industrial palm shortenings or trans fats.",
+          "ms": "Berasal daripada mentega tenusu tanpa lelemak sawit industri atau lemak trans."
+        }
+      },
+      {
+        "key": "dietaryFibre",
+        "label": {
+          "en": "Dietary Fibre",
+          "ms": "Serat Diet"
+        },
+        "unit": "g",
+        "value": null,
+        "referenceEstimate": "~2.0 - 3.2 g (per 30g serving)",
+        "status": "PENDING",
+        "dailyValuePercentage": null,
+        "notes": {
+          "en": "Notable botanical fibre content delivered jointly by whole sorghum pericarp and whole date pulp.",
+          "ms": "Kandungan serat ketara disumbangkan oleh perikarp sorgum dan pulpa kurma utuh."
+        }
+      },
+      {
+        "key": "totalSugar",
+        "label": {
+          "en": "Total Sugars",
+          "ms": "Jumlah Gula"
+        },
+        "unit": "g",
+        "value": null,
+        "referenceEstimate": "~7.0 - 9.0 g naturally occurring (per 30g serving)",
+        "status": "PENDING",
+        "dailyValuePercentage": null,
+        "notes": {
+          "en": "Strictly naturally occurring fructose and glucose from dates and honey. 0g added white table sugar.",
+          "ms": "Gula semula jadi (fruktosa & glukosa) daripada kurma dan madu. 0g gula pasir putih ditambah."
+        }
+      }
+    ],
+    "disclaimers": {
+      "sugarStatement": {
+        "en": "SUGAR CLARIFICATION: SorghuBites contains NO added refined white sugar. However, pure honey and dates inherently contain naturally occurring sugars (fructose & glucose). Therefore, SorghuBites must NOT be classified or marketed as sugar-free.",
+        "ms": "PENJELASAN KANDUNGAN GULA: SorghuBites TIDAK mengandungi gula putih bertapis yang ditambah. Walau bagaimanapun, madu asli dan kurma secara semula jadi mengandungi gula buah (fruktosa & glukosa). Oleh itu, SorghuBites TIDAK boleh dilabelkan sebagai produk bebas gula."
+      },
+      "glutenStatement": {
+        "en": "GLUTEN & ALLERGEN NOTICE: SorghuBites recipe is formulated entirely without wheat flour and uses sorghum flour. However, without dedicated third-party ISO/IEC 17025 accredited laboratory gluten quantification testing (<20 ppm) and certified clean-facility audit, SorghuBites is not currently certified gluten-free.",
+        "ms": "NOTIS GLUTEN & ALERGEN: Resipi SorghuBites dirumus sepenuhnya tanpa tepung gandum dan menggunakan tepung sorgum. Namun begitu, tanpa ujian makmal bertauliah ISO/IEC 17025 (<20 ppm) dan pensijilan fasiliti bebas pencemaran silang, SorghuBites belum disahkan secara rasmi sebagai bebas gluten."
+      },
+      "labNotice": {
+        "en": "VERIFICATION PROTOCOL STATUS: Nutritional numbers are labeled PENDING. Laboratory proximate analysis (moisture, ash, crude protein, Soxhlet fat, dietary fibre via AOAC 991.43) is scheduled with the food science testing facility.",
+        "ms": "STATUS PROTOKOL PENGESAHAN: Nilai pemakanan ditandakan sebagai DALAM PROSES (PENDING). Analisis proksimat makmal (kelembapan, abu, protein kasar, lemak Soxhlet, serat AOAC 991.43) berjadual dengan kemudahan analisis sains makanan."
+      }
+    },
+    "qrDestinationPath": "/product/sorghubites",
+    "lastUpdated": "2026-11-10T14:00:00Z"
+  }
+]
